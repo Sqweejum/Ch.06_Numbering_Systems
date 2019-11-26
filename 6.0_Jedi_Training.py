@@ -3,7 +3,7 @@ Sign your name:________________
 
 
 1.) Convert Binary 101010 to Hexadecimal.
-
+2A
 
 2.) Convert Binary 11101001 to Octal.
 
