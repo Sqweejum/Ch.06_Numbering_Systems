@@ -10,7 +10,7 @@ Sign your name:________________
 
 3.) Convert Hexadecimal FC to Binary.
 
-11110000
+11111100
 4.) Convert Hexadecimal 1F to Decimal.
 31
 
